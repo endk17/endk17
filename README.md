@@ -10,6 +10,10 @@
 
 - ⚡ Fun fact: Many moons past, I too was once providing Level I help desk support! 😄
 
+
+### Languages
+[![Python](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg)](https://www.python.org/)
+
 ### Stats:
 
 ![counter](https://enptm74jfyxktnn.m.pipedream.net)

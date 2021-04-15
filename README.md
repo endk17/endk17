@@ -12,6 +12,8 @@
 
 ### Stats:
 
+![counter](https://enptm74jfyxktnn.m.pipedream.net)
+
 ![Github stats](https://github-readme-stats.vercel.app/api?username=endk17)
 
 

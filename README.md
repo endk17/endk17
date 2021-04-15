@@ -12,7 +12,7 @@
 
 
 ### Languages
-[![Python](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg)](https://www.python.org/)
+[![Python](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg =40x40)](https://www.python.org/)
 
 ### Stats:
 

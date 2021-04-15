@@ -12,9 +12,7 @@
 
 ### Stats:
 
-![counter](https://ennr0orc4sd53jn.m.pipedream.net)
-
-![Github stats](https://github-readme-stats.vercel.app/api?username=irinamaria)
+![Github stats](https://github-readme-stats.vercel.app/api?username=endk17)
 
 
 

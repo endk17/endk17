@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on a sentiment tool to analyse various data source using TimescaleDB
+- 🔭 I’m currently working on a sentiment tool to analyse various data source using [TimescaleDB](https://www.timescale.com/)
 
 - 🌱 I’m currently learning about utilising algorithms to help with everyday decision making and using automation to automate myself out of a job!
 

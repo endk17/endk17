@@ -1,10 +1,10 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on building a Machine Learning application using [Facebook's Prophet algorithm](https://github.com/CloudNua/ml-forecast-app)
+- 🔭 I’m currently working on a sentiment tool to analyse various data source using TimescaleDB
 
-- 🌱 I’m currently learning about utilising algorithm's to help with everyday decision making
+- 🌱 I’m currently learning about utilising algorithms to help with everyday decision making and using automation to automate myself out of a job!
 
-- 👯 I’m looking to collaborate on tech stacks that involve: Python, JavaScript and/or Public Cloud Platforms
+- 👯 The tech stacks that I like to collaborate on involve: Python, Node.js and/or Public Cloud Platforms
 
 - 📫 How to reach me: [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/enda-kelly-05786b31/)
 
@@ -24,6 +24,10 @@
     <a href="https://flask.palletsprojects.com/en/1.1.x/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original-wordmark.svg" alt="flask" width="40" height="40"/> </a>
     <a href="https://gitlab.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original-wordmark.svg"
     alt="gitlab" width="40" height="40"/> </a>
+    <a href="https://github.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"
+    alt="github" width="40" height="40"/> </a>
+    <a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg"
+    alt="git" width="40" height="40"/> </a>
     <a href="https://vuejs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" 
     alt="vuejs" width="40" height="40"/> </a>
     <a href="https://ubuntu.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain-wordmark.svg" 

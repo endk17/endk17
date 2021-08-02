@@ -45,13 +45,13 @@
     alt="gql" width="40" height="40"/> </a>
     <a href="https://www.postgresql.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" 
     alt="postgres" width="40" height="40"/> </a>
-    <a href="https://www.sqlalchemy.org/ target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/sqlalchemy/sqlalchemy-original-wordmark.svg" 
+    <a href="https://www.sqlalchemy.org/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/sqlalchemy/sqlalchemy-original-wordmark.svg" 
     alt="sqlalchemy" width="40" height="40"/> </a>
     <a href="target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" 
     alt="linux" width="40" height="40"/> </a>
-    <a href="https://code.visualstudio.com/ target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" 
+    <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" 
     alt="vscode" width="40" height="40"/> </a>
-    <a href="https://kubernetes.io/ target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg" 
+    <a href="https://kubernetes.io/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg" 
     alt="k8s" width="40" height="40"/> </a>
 </p>
 

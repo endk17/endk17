@@ -2,16 +2,16 @@
 
 - 🔭 I’m currently working on a sentiment tool to analyse various data source using [TimescaleDB](https://www.timescale.com/)
 
-- 🌱 I’m currently learning about utilising algorithms to help with everyday decision making and using automation to automate myself out of a job!
+- 🌱 Trying to automate myself out of a job!
 
-- 👯 The tech stacks that I like to collaborate on involve: Python, Node.js and/or Public Cloud Platforms
+- 👯 The tech stacks that I like to collaborate on involve: Python and/or Public Cloud Platforms
 
 - 📫 How to reach me: [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/enda-kelly-05786b31/)
 
 - ⚡ Fun fact: Many moons past, I too was once providing Level I help desk support! 😄
 
 
-### Languages:
+### Scripts:
 <p align="left"> 
     <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
     <a href="https://www.javascript.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
@@ -21,7 +21,10 @@
 ### Tools:
 <p align="left"> 
     <a href="https://aws.amazon.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>
-    <a href="https://flask.palletsprojects.com/en/1.1.x/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original-wordmark.svg" alt="flask" width="40" height="40"/> </a>
+    <a href="https://cloud.google.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg" 
+    alt="gcp" width="40" height="40"/> </a>
+    <a href="https://palletsprojects.com/p/flask/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original-wordmark.svg" alt="flask" width="40" height="40"/> </a>
+    <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-original.svg" alt="django" width="40" height="40"/> </a>
     <a href="https://gitlab.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original-wordmark.svg"
     alt="gitlab" width="40" height="40"/> </a>
     <a href="https://github.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"
@@ -42,6 +45,14 @@
     alt="gql" width="40" height="40"/> </a>
     <a href="https://www.postgresql.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" 
     alt="postgres" width="40" height="40"/> </a>
+    <a href="https://www.sqlalchemy.org/ target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/sqlalchemy/sqlalchemy-original-wordmark.svg" 
+    alt="sqlalchemy" width="40" height="40"/> </a>
+    <a href="target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" 
+    alt="linux" width="40" height="40"/> </a>
+    <a href="https://code.visualstudio.com/ target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" 
+    alt="vscode" width="40" height="40"/> </a>
+    <a href="https://kubernetes.io/ target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg" 
+    alt="k8s" width="40" height="40"/> </a>
 </p>
 
 

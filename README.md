@@ -8,7 +8,7 @@
 
 - 📫 How to reach me: [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/enda-kelly-05786b31/)
 
-- ⚡ Fun fact: Many moons past, I too was once providing Level I help desk support! 😄
+- ⚡ Fun fact: I've yet to automate myself out of a job! 😄
 
 
 ### Scripts:

@@ -1,14 +1,19 @@
-## Hi there 👋
+## Hi there 👋, I'm Enda Kelly
 
-- 🔭 I’m currently working on a sentiment tool to analyse various data source using [TimescaleDB](https://www.timescale.com/)
+[![Enda Kelly Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/enda-kelly/)
+[![Enda Kelly Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/EannaOCeallaigh)
 
-- 🌱 Trying to automate myself out of a job!
+- 🔭 I’m currently working on a sentiment tool to analyse various data sources using [TimescaleDB](https://www.timescale.com/) 👨‍💻
 
-- 👯 The tech stacks that I like to collaborate on involve: Python and/or Public Cloud Platforms
+- 🌱 Trying to automate myself out of a job! ⚙️
+
+- 👯 The tech stacks that I like to collaborate on involve: Python and/or Public Cloud Platforms ☁️ 
 
 - 📫 How to reach me: [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/enda-kelly-05786b31/)
 
 - ⚡ Fun fact: I've yet to automate myself out of a job! 😄
+
+- 💬 Just a general enthusiast for all things relating to code 🤓
 
 
 ### Scripts:

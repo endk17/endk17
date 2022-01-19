@@ -9,8 +9,6 @@
 
 - 👯 The tech stacks that I like to collaborate on involve: Python and/or Public Cloud Platforms ☁️ 
 
-- 📫 How to reach me: [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/enda-kelly-05786b31/)
-
 - ⚡ Fun fact: I've yet to automate myself out of a job! 😄
 
 - 💬 Just a general enthusiast for all things relating to code 🤓

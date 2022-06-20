@@ -11,13 +11,14 @@
 
 - ⚡ Fun fact: I've yet to automate myself out of a job! 😄
 
-- 💬 Just a general enthusiast for all things relating to code 🤓
+- 💬 Just an enthusiast for all things relating to code 🤓
 
 
 ### Scripts:
 <p align="left"> 
     <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-    <a href="https://www.javascript.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
+    <a href="https://www.javascript.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
+    <a href="https://go.dev/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" alt="golang" width="40" height="40"/> </a> 
     <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="bash" width="40" height="40"/> </a> 
 </p>
 
@@ -27,7 +28,7 @@
     <a href="https://cloud.google.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg" 
     alt="gcp" width="40" height="40"/> </a>
     <a href="https://palletsprojects.com/p/flask/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original-wordmark.svg" alt="flask" width="40" height="40"/> </a>
-    <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-original.svg" alt="django" width="40" height="40"/> </a>
+    <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" alt="django" width="40" height="40"/> </a>
     <a href="https://gitlab.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original-wordmark.svg"
     alt="gitlab" width="40" height="40"/> </a>
     <a href="https://github.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"
@@ -56,6 +57,8 @@
     alt="vscode" width="40" height="40"/> </a>
     <a href="https://kubernetes.io/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg" 
     alt="k8s" width="40" height="40"/> </a>
+    <a href="https://fluxcd.io/" target="_blank"> <img src="https://github.com/endk17/blob/main/icons/fluxcdio-ar21.svg" 
+    alt="fluxcd" width="40" height="40"/> </a>
 </p>
 
 

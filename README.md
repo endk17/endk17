@@ -73,11 +73,12 @@
 
 ### Backend / API Frameworks:
 <p align="left">
-    <a href="https://palletsprojects.com/p/flask/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original-wordmark.svg" alt="flask"/> </a>
+    <a href="https://palletsprojects.com/p/flask/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original-wordmark.svg" alt="flask"
+    width="60" height="60"/> </a>
     <a href="https://www.sqlalchemy.org/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/sqlalchemy/sqlalchemy-original-wordmark.svg" 
-    alt="sqlalchemy" /> </a>
+    alt="sqlalchemy" width="60" height="60"/> </a>
     <a href="https://www.nginx.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" 
-    alt="nginx" /> </a>
+    alt="nginx" width="60" height="60"/> </a>
     <a href="https://www.getambassador.io/" target="_blank"> <img src="https://github.com/endk17/endk17/blob/main/icons/ambassadorio-ar21.svg" alt="ambassador" /> </a>
     <a href="https://graphql.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain-wordmark.svg" 
     alt="gql" width="40" height="40"/> </a>
@@ -87,7 +88,7 @@
 ### Database Frameworks:
 <p align="left">
     <a href="https://www.postgresql.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" 
-    alt="postgres" /> </a>
+    alt="postgres" width="60" height="60"/> </a>
 </p>
 
 

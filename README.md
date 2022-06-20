@@ -18,7 +18,8 @@
 <p align="left"> 
     <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
     <a href="https://www.javascript.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-    <a href="https://go.dev/" target="_blank"> <img src="https://github.com/endk17/endk17/blob/main/icons/golang-ar21.svg" alt="golang" width="40" height="40"/> </a> 
+    <a href="https://go.dev/" target="_blank"> <img src="https://github.com/endk17/endk17/blob/main/icons/golang-ar21.svg" alt="golang"/>
+    </a> 
     <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="bash" width="40" height="40"/> </a> 
 </p>
 
@@ -28,13 +29,13 @@
     <a href="https://cloud.google.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg" 
     alt="gcp" width="40" height="40"/> </a>
     <a href="https://www.digitalocean.com/" target="_blank"> <img src="https://github.com/endk17/endk17/blob/main/icons/digitalocean-ar21.svg" 
-    alt="do" width="40" height="40"/> </a>
+    alt="do"/> </a>
     <a href="https://www.terraform.io/" target="_blank"> <img src="https://github.com/endk17/endk17/blob/main/icons/terraformio-ar21.svg" 
-    alt="terraform" width="40" height="40"/> </a>
+    alt="terraform"/> </a>
     <a href="https://kubernetes.io/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg" 
     alt="k8s" width="40" height="40"/> </a>
     <a href="https://fluxcd.io/" target="_blank"> <img src="https://github.com/endk17/endk17/blob/main/icons/fluxcdio-ar21.svg" 
-    alt="fluxcd" width="40" height="40"/> </a>
+    alt="fluxcd"/> </a>
     <a href="https://helm.sh/" target="_blank"> <img src="https://github.com/endk17/endk17/blob/main/icons/helmsh-ar21.svg" 
     alt="helm" width="40" height="40"/> </a>
     <a href="https://www.vaultproject.io/" target="_blank"> <img src="https://github.com/endk17/endk17/blob/main/icons/vaultproject-ar21.svg" 
@@ -52,13 +53,13 @@
     <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" 
     alt="vscode" width="40" height="40"/> </a>
     <a href="https://prometheus.io/" target="_blank"> <img src="https://github.com/endk17/endk17/blob/main/icons/prometheusio-ar21.svg" 
-    alt="prometheus" width="40" height="40"/> </a>
+    alt="prometheus" /> </a>
     <a href="https://redis.com/" target="_blank"> <img src="https://github.com/endk17/endk17/blob/main/icons/redis-ar21.svg" 
-    alt="redis" width="40" height="40"/> </a>
+    alt="redis" /> </a>
     <a href="https://redis.com/" target="_blank"> <img src="https://github.com/endk17/endk17/blob/main/icons/redis-ar21.svg" 
-    alt="redis" width="40" height="40"/> </a>
+    alt="redis" /> </a>
     <a href="https://linkerd.io/" target="_blank"> <img src="https://github.com/endk17/endk17/blob/main/icons/linkerdio-ar21.svg" 
-    alt="linkerd" width="40" height="40"/> </a>
+    alt="linkerd" /> </a>
 </p>
 
 
@@ -82,7 +83,7 @@
     <a href="https://www.nginx.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" 
     alt="nginx" width="40" height="40"/> </a>
     <a href="https://www.getambassador.io/" target="_blank"> <img src="https://github.com/endk17/endk17/blob/main/icons/ambassadorio-ar21.svg" 
-    alt="ambassador" width="40" height="40"/> </a>
+    alt="ambassador /> </a>
     <a href="https://graphql.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain-wordmark.svg" 
     alt="gql" width="40" height="40"/> </a>
 </p>

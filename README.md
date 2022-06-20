@@ -18,7 +18,7 @@
 <p align="left"> 
     <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
     <a href="https://www.javascript.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-    <a href="https://go.dev/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" alt="golang" width="40" height="40"/> </a> 
+    <a href="https://go.dev/" target="_blank"> <img src="https://github.com/endk17/endk17/blob/main/icons/golang-ar21.svg" alt="golang" width="40" height="40"/> </a> 
     <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="bash" width="40" height="40"/> </a> 
 </p>
 
@@ -27,38 +27,71 @@
     <a href="https://aws.amazon.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>
     <a href="https://cloud.google.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg" 
     alt="gcp" width="40" height="40"/> </a>
-    <a href="https://palletsprojects.com/p/flask/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original-wordmark.svg" alt="flask" width="40" height="40"/> </a>
-    <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" alt="django" width="40" height="40"/> </a>
+    <a href="https://www.digitalocean.com/" target="_blank"> <img src="https://github.com/endk17/endk17/blob/main/icons/digitalocean-ar21.svg" 
+    alt="do" width="40" height="40"/> </a>
+    <a href="https://www.terraform.io/" target="_blank"> <img src="https://github.com/endk17/endk17/blob/main/icons/terraformio-ar21.svg" 
+    alt="terraform" width="40" height="40"/> </a>
+    <a href="https://kubernetes.io/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg" 
+    alt="k8s" width="40" height="40"/> </a>
+    <a href="https://fluxcd.io/" target="_blank"> <img src="https://github.com/endk17/endk17/blob/main/icons/fluxcdio-ar21.svg" 
+    alt="fluxcd" width="40" height="40"/> </a>
+    <a href="https://helm.sh/" target="_blank"> <img src="https://github.com/endk17/endk17/blob/main/icons/helmsh-ar21.svg" 
+    alt="helm" width="40" height="40"/> </a>
+    <a href="https://www.vaultproject.io/" target="_blank"> <img src="https://github.com/endk17/endk17/blob/main/icons/vaultproject-ar21.svg" 
+    alt="vault" width="40" height="40"/> </a>
     <a href="https://gitlab.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original-wordmark.svg"
     alt="gitlab" width="40" height="40"/> </a>
     <a href="https://github.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"
     alt="github" width="40" height="40"/> </a>
     <a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg"
     alt="git" width="40" height="40"/> </a>
-    <a href="https://vuejs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" 
-    alt="vuejs" width="40" height="40"/> </a>
     <a href="https://ubuntu.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain-wordmark.svg" 
     alt="ubunbtu" width="40" height="40"/> </a>
-    <a href="https://www.npmjs.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" 
-    alt="npm" width="40" height="40"/> </a>
-    <a href="https://nodejs.org/en/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" 
-    alt="nodejs" width="40" height="40"/> </a>
-    <a href="https://www.nginx.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" 
-    alt="nginx" width="40" height="40"/> </a>
-    <a href="https://graphql.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain-wordmark.svg" 
-    alt="gql" width="40" height="40"/> </a>
-    <a href="https://www.postgresql.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" 
-    alt="postgres" width="40" height="40"/> </a>
-    <a href="https://www.sqlalchemy.org/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/sqlalchemy/sqlalchemy-original-wordmark.svg" 
-    alt="sqlalchemy" width="40" height="40"/> </a>
     <a href="target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" 
     alt="linux" width="40" height="40"/> </a>
     <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" 
     alt="vscode" width="40" height="40"/> </a>
-    <a href="https://kubernetes.io/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg" 
-    alt="k8s" width="40" height="40"/> </a>
-    <a href="https://fluxcd.io/" target="_blank"> <img src="https://github.com/endk17/blob/main/icons/fluxcdio-ar21.svg" 
-    alt="fluxcd" width="40" height="40"/> </a>
+    <a href="https://prometheus.io/" target="_blank"> <img src="https://github.com/endk17/endk17/blob/main/icons/prometheusio-ar21.svg" 
+    alt="prometheus" width="40" height="40"/> </a>
+    <a href="https://redis.com/" target="_blank"> <img src="https://github.com/endk17/endk17/blob/main/icons/redis-ar21.svg" 
+    alt="redis" width="40" height="40"/> </a>
+    <a href="https://redis.com/" target="_blank"> <img src="https://github.com/endk17/endk17/blob/main/icons/redis-ar21.svg" 
+    alt="redis" width="40" height="40"/> </a>
+    <a href="https://linkerd.io/" target="_blank"> <img src="https://github.com/endk17/endk17/blob/main/icons/linkerdio-ar21.svg" 
+    alt="linkerd" width="40" height="40"/> </a>
+</p>
+
+
+### Application Frameworks:
+<p align="left">
+    <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" alt="django" width="40" height="40"/> </a>
+    <a href="https://vuejs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" 
+    alt="vuejs" width="40" height="40"/> </a>
+    <a href="https://www.npmjs.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" 
+    alt="npm" width="40" height="40"/> </a>
+</p>
+
+
+### Backend / API Frameworks:
+<p align="left">
+    <a href="https://palletsprojects.com/p/flask/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original-wordmark.svg" alt="flask" width="40" height="40"/> </a>
+    <a href="https://www.sqlalchemy.org/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/sqlalchemy/sqlalchemy-original-wordmark.svg" 
+    alt="sqlalchemy" width="40" height="40"/> </a>
+    <a href="https://nodejs.org/en/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" 
+    alt="nodejs" width="40" height="40"/> </a>
+    <a href="https://www.nginx.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" 
+    alt="nginx" width="40" height="40"/> </a>
+    <a href="https://www.getambassador.io/" target="_blank"> <img src="https://github.com/endk17/endk17/blob/main/icons/ambassadorio-ar21.svg" 
+    alt="ambassador" width="40" height="40"/> </a>
+    <a href="https://graphql.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain-wordmark.svg" 
+    alt="gql" width="40" height="40"/> </a>
+</p>
+
+
+### Database Frameworks:
+<p align="left">
+    <a href="https://www.postgresql.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" 
+    alt="postgres" width="40" height="40"/> </a>
 </p>
 
 

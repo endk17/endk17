@@ -56,8 +56,6 @@
     alt="prometheus" /> </a>
     <a href="https://redis.com/" target="_blank"> <img src="https://github.com/endk17/endk17/blob/main/icons/redis-ar21.svg" 
     alt="redis" /> </a>
-    <a href="https://redis.com/" target="_blank"> <img src="https://github.com/endk17/endk17/blob/main/icons/redis-ar21.svg" 
-    alt="redis" /> </a>
     <a href="https://linkerd.io/" target="_blank"> <img src="https://github.com/endk17/endk17/blob/main/icons/linkerdio-ar21.svg" 
     alt="linkerd" /> </a>
 </p>
@@ -75,15 +73,12 @@
 
 ### Backend / API Frameworks:
 <p align="left">
-    <a href="https://palletsprojects.com/p/flask/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original-wordmark.svg" alt="flask" width="40" height="40"/> </a>
+    <a href="https://palletsprojects.com/p/flask/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original-wordmark.svg" alt="flask"/> </a>
     <a href="https://www.sqlalchemy.org/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/sqlalchemy/sqlalchemy-original-wordmark.svg" 
-    alt="sqlalchemy" width="40" height="40"/> </a>
-    <a href="https://nodejs.org/en/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" 
-    alt="nodejs" width="40" height="40"/> </a>
+    alt="sqlalchemy" /> </a>
     <a href="https://www.nginx.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" 
-    alt="nginx" width="40" height="40"/> </a>
-    <a href="https://www.getambassador.io/" target="_blank"> <img src="https://github.com/endk17/endk17/blob/main/icons/ambassadorio-ar21.svg" 
-    alt="ambassador /> </a>
+    alt="nginx" /> </a>
+    <a href="https://www.getambassador.io/" target="_blank"> <img src="https://github.com/endk17/endk17/blob/main/icons/ambassadorio-ar21.svg" alt="ambassador" /> </a>
     <a href="https://graphql.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain-wordmark.svg" 
     alt="gql" width="40" height="40"/> </a>
 </p>
@@ -92,7 +87,7 @@
 ### Database Frameworks:
 <p align="left">
     <a href="https://www.postgresql.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" 
-    alt="postgres" width="40" height="40"/> </a>
+    alt="postgres" /> </a>
 </p>
 
 

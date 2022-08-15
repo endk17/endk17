@@ -7,7 +7,7 @@
 
 - 🌱 Trying to automate myself out of a job! ⚙️
 
-- 👯 The tech stacks that I like to collaborate on involve: Python and/or Public Cloud Platforms ☁️ 
+- 👯 The tech stacks that I like to collaborate on involve: Python/Go :computer: and/or Public Cloud Platforms ☁️ 
 
 - ⚡ Fun fact: I've yet to automate myself out of a job! 😄
 

@@ -1,7 +1,6 @@
 # Hi there 👋, I'm Enda
 
 [![Enda Kelly Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/enda-kelly/)
-[![Enda Kelly Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/EannaOCeallaigh)
 
 - 🔭 I’m currently working on a dastardly deed to take over the world with **one more thing** 👨‍💻
 
